@@ -12,7 +12,7 @@ const adams = require(__dirname + "/../config");
 
 async function fetchAiUrl() {
   try {
-    const response = await axios.get(adams.SMART-BOT);
+    const response = await axios.get(jay.SMART_BOT);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("Ai")');
