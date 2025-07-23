@@ -2,7 +2,7 @@
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
 //  >> Scripted by Sir Jay 0001                                    
-//  >> Version: 8.3.5-quantum.7
+//  >> Version: 8.3.5-smartbot.7
 
 const axios = require('axios');
 const cheerio = require('cheerio');
