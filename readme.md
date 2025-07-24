@@ -26,7 +26,6 @@
 </p>
 
 <p align="center">
-
 <a href="https://api.whatsapp.com/send?phone=254794597254&text=Hello+Smart+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <p align="center">
