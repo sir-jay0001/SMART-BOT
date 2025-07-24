@@ -51,7 +51,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
   <!-- Action Buttons -->
 <p align="center">
-  <a href="https://raven-session-production-aba3.up.railway.app">
+  <a href="https://mysession-production.up.railway.app">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SMARTBOT_SESSION-000000?style=for-the-badge&logo=smartbot&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
 </p>
