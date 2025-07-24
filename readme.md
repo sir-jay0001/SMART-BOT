@@ -28,6 +28,18 @@
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=254794597254&text=Hello+Smart+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
+***This bot was created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
+
+
+## DISCLAIMER
+- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
+
+- Do not delete the credits given,  you can add yourself instead.
+
+## FEATURES
+This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+
+Our AI features use random APIs to run, so sometimes they may be down.
 <p align="center">
 <a href="https://github.com/sir-jay0001?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/sir-jay0001?label=Followers&style=social"></a>
 <a href="https://github.com/sir-jay0001/SMART-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sir-jay0001/SMART-BOT?&style=social"></a>
