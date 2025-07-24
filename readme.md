@@ -37,7 +37,7 @@
 
 <p align="centre">
 <a href="https://github.com/sir-jay0001/SMART-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK SMART-BOT" width="160"></a>
-</p>
+
   <!-- Action Buttons -->
 <p align="center">
   <a href="https://www.ibrahimadams.site/scanner">
