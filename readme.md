@@ -25,11 +25,9 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗝𝗮𝘆_0001-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## `MESSAGE ME`
-
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254794597254&text=Hello+Smart+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254794597254&text=Hello+Smart+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <p align="center">
 <a href="https://github.com/sir-jay0001?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/sir-jay0001?label=Followers&style=social"></a>
