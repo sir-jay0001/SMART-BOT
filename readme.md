@@ -73,6 +73,24 @@ Our AI features use random APIs to run, so sometimes they may be down.
   </a>
 </p>
 
+- Fill in the required variables into your hosting site for bot to work.
+ </h2>
+     
+
+    
+ 
+
+
+
+
+
+## License
+
+[MIT License](https://github.com/sir-jay0001/SMART-BOT/blob/main/LICENSE)
+
+Copyright (c) 2025 SMART-BOT 
+
+
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://files.catbox.moe/a4nbzm.jpg" height="40" width="100%">
