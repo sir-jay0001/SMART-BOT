@@ -2,7 +2,7 @@
 
 {
   "name": "SMART-BOT",
-  "description": "Best WhatsApp bot developed by Sir Jay0001",
+  "description": "Best WhatsApp bot developed by Sir Jay",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/a4nbzm.jpg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -211,5 +211,4 @@
       "url": "heroku/nodejs"
     }
   ]
-    }
-      
+}
