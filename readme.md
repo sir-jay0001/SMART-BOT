@@ -27,7 +27,8 @@
   <a href="https://www.ibrahimadams.site/scanner">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SMARTBOT_SESSION-000000?style=for-the-badge&logo=smartbot&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
-  
+</p>
+  <p align="center">
   <a href="https://www.ibrahimadams.site/Deploy">
     <img title="DEPLOY SMART BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
