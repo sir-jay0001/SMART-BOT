@@ -21,7 +21,15 @@
     <img src="https://files.catbox.moe/a4nbzm.jpg" width="100%" height="auto">
   </a>
 </p>
-
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗝𝗮𝘆_0001-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/sir-jay0001?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/sir-jay0001?label=Followers&style=social"></a>
+<a href="https://github.com/sir-jay0001/SMART-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sir-jay0001/SMART-BOT?&style=social"></a>
+<a href="https://github.com/sir-jay0001/SMART-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/sir-jay0001/SMART-BOT?style=social"></a>
+<a href="https://github.com/sir-jay0001/SMART-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sir-jay0001/SMART-BOT?label=Watching&style=social"></a>
+  
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://www.ibrahimadams.site/scanner">
