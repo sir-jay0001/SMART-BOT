@@ -33,7 +33,6 @@
 <a href="https://github.com/sir-jay0001/SMART-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sir-jay0001/SMART-BOT?&style=social"></a>
 <a href="https://github.com/sir-jay0001/SMART-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/sir-jay0001/SMART-BOT?style=social"></a>
 <a href="https://github.com/sir-jay0001/SMART-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sir-jay0001/SMART-BOT?label=Watching&style=social"></a>
-</p> 
 
 <p align="centre">
 <a href="https://github.com/sir-jay0001/SMART-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK SMART-BOT" width="160"></a>
